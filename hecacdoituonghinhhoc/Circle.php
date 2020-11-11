@@ -10,7 +10,7 @@ class Circle extends Shape{
     public function calculateArea(){
         return pi() * pow($this->radius,2);
     }
-    public function calulatePerimeter(){
+    public function calculatePerimeter(){
         return pi() * $this->radius * 2;
     }
 }
