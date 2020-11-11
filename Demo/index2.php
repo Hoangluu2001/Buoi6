@@ -5,5 +5,5 @@ include_once('Sonny.php');
 
 
 $ong = new grandfather(80);
-echo 'tuoi ong:'.$ong->age;
+echo 'tuoi ong:'.$ong->age .'<br>';
 echo "chay duoc ".$ong->run();
