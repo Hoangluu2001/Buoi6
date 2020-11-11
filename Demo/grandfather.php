@@ -10,9 +10,9 @@ class grandfather
 
     }
 
-    public function getRun()
+    public function run()
     {
-
+return "km";
     }
 
 }
