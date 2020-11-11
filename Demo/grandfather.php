@@ -12,7 +12,7 @@ class grandfather
 
     public function run()
     {
-        return "km";
+        return "8 km";
     }
 
 }
